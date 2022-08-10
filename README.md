@@ -2,7 +2,7 @@
 
 > Demo repo
 
-## List of changes
+## Table of changes
 
 | Name  |
 | ----  |

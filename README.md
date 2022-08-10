@@ -7,3 +7,5 @@
 | Name  |
 | ----  |
 | blank |
+
+## Conflicting changes
